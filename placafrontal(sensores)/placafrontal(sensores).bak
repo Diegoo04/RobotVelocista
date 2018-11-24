@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:placafrontal(sensores)-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -475,7 +476,7 @@ U 1 1 5BF19312
 P 8550 3550
 F 0 "U7" H 8550 4628 50  0000 C CNN
 F 1 "4053" H 8550 4537 50  0000 C CNN
-F 2 "Package_DIP:DIP-10_W7.62mm_LongPads" H 8550 3550 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm_LongPads" H 8550 3550 50  0001 C CNN
 F 3 "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4051bms-52bms-53bms.pdf" H 8550 3550 50  0001 C CNN
 	1    8550 3550
 	1    0    0    -1  
